@@ -26,7 +26,9 @@
 ### About the creator
 
 Flávia Maia - webdev student
+<br/>
 Guilherme Candeia - webdev student
+<br/>
 Rafael Alves - webdev student
 
   
