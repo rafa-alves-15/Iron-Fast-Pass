@@ -30,9 +30,7 @@ Guilherme Candeia - webdev student
 Rafael Alves - webdev student
 
   
-### Visit our WebApp
-
-[here!](https://ironfastpass.netlify.app/)
+### Visit our WebApp: [here!](https://ironfastpass.netlify.app/)
  
 
 ### Tech used
